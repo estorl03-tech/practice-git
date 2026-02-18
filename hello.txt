@@ -1,2 +1,3 @@
 VS Codeで書き換えたよ
+GitHubで書き換えたよ
 git hubで直接編集
